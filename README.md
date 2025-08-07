@@ -41,6 +41,13 @@
 *(See the `nifty-github.png`  chart)*
 
 ---
+## 📉 Historical nifty data
+
+> Historical nifty data from 1 jan 2010 to 7 aug 2025
+
+*(See the `nifty.csv`  file)*
+
+---
 
 ## 🚀 Future Enhancements
 
