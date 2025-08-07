@@ -5,7 +5,7 @@ This project uses an LSTM deep learning model to predict NIFTY 50 stock prices u
 ## 📂 Project Structure
 
 - `nifty_lstm.ipynb` — Main Jupyter notebook with data prep, modeling, evaluation
-- `nifty_data.csv` — Historical data
+- `nifty.csv` — Historical data from 1 jan 2010 to 7 aug 2025
 - `nifty-github.png` — nifty prediction vs actual chart
 
 ## 🧰 Tools & Technologies
